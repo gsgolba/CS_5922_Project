@@ -419,7 +419,3 @@ def download_some_scroll_data(): #WIP
 if __name__ == '__main__':
     main3D()
 
-#to do:
-# see results one single layer interpretation
-# include more layers and do a 3D convolution first
-# Try to predict using a scroll piece rather than fragment
